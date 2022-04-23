@@ -19,6 +19,13 @@
   "homepage": "https://github.com/kawai10/NodeFileUpload#readme",
   "devDependencies": {
     "eslint": "^8.14.0",
-    "eslint-config-google": "^0.14.0"
+    "eslint-config-google": "^0.14.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "helmet": "^5.0.2"
   }
 }
